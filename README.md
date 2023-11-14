@@ -35,9 +35,13 @@ This is an example of how to list things you need to use the software and how to
 
 To run this project, you will need to add the following environment variables to your .env file
 
+- ENV
+
+  ```sh
   `API_KEY`
   `ANOTHER_API_KEY`
- 
+  ```
+
 ### 🚧 Installation
 
 - Create database and edit configApp.php
@@ -89,15 +93,15 @@ To run this project, you will need to add the following environment variables to
 
 ## :globe_with_meridians: References
 
-:link: [Reference 1](https://choosealicense.com)
-:link: [Reference 2](https://choosealicense.com)
-:link: [Reference 3](https://choosealicense.com)
-:link: [Reference 4](https://choosealicense.com)
+- :link: [Reference 1](https://choosealicense.com)
+- :link: [Reference 2](https://choosealicense.com)
+- :link: [Reference 3](https://choosealicense.com)
+- :link: [Reference 4](https://choosealicense.com)
 
 <!-- Markdown link & img dfn's -->
 
-[lastrelease-image]: https://badgen.net/badge/nonecesarioversion/v1.4.0?icon=git&label=version&color=grey&labelColor=green&scale=1.1.vers3
-[lastrelease-date]: https://badgen.net/badge/nonecesarioversion/10%2F11%2F2023?label=Date&color=grey&labelColor=blue&scale=1.1
+[lastrelease-image]: https://badgen.net/badge/nonecesarioversion/v1.4.0?icon=git&label=version&color=grey&labelColor=green&scale=1.2.vers3
+[lastrelease-date]: https://badgen.net/badge/nonecesarioversion/10%2F11%2F2023?label=Date&color=grey&labelColor=blue&scale=1.2
 [firefox-image]: https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white
 [firefox-url]: https://www.mozilla.org/es-ES/firefox/new/
 [chrome-image]: https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white
