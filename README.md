@@ -1,4 +1,5 @@
 <!-- EMOJIS -->
+
 <!-- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#place-building -->
 
 <a name="readme-top"></a>
@@ -19,7 +20,7 @@ Title for you project
 
 ## 🚀️ Getting Started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
+This is an example of how you may give instructions on setting up your project locally for steps
 
 ### :exclamation: Prerequisites
 
@@ -34,11 +35,9 @@ This is an example of how to list things you need to use the software and how to
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`API_KEY`
-
-`ANOTHER_API_KEY`
-
-
+  `API_KEY`
+  `ANOTHER_API_KEY`
+ 
 ### 🚧 Installation
 
 - Create database and edit configApp.php
@@ -90,15 +89,15 @@ To run this project, you will need to add the following environment variables to
 
 ## :globe_with_meridians: References
 
-:link: [Choose an Open Source License](https://choosealicense.com)
-:link: [Choose an Open Source License](https://choosealicense.com)
-:link: [Choose an Open Source License](https://choosealicense.com)
-:link: [Choose an Open Source License](https://choosealicense.com)
+:link: [Reference 1](https://choosealicense.com)
+:link: [Reference 2](https://choosealicense.com)
+:link: [Reference 3](https://choosealicense.com)
+:link: [Reference 4](https://choosealicense.com)
 
 <!-- Markdown link & img dfn's -->
 
-[lastrelease-image]: https://badgen.net/badge/nonecesarioversion/v1.4.0?icon=git&label=version&color=grey&labelColor=green&scale=1.3.vers3
-[lastrelease-date]: https://badgen.net/badge/nonecesarioversion/10%2F11%2F2023?label=Date&color=grey&labelColor=blue&scale=1.3
+[lastrelease-image]: https://badgen.net/badge/nonecesarioversion/v1.4.0?icon=git&label=version&color=grey&labelColor=green&scale=1.1.vers3
+[lastrelease-date]: https://badgen.net/badge/nonecesarioversion/10%2F11%2F2023?label=Date&color=grey&labelColor=blue&scale=1.1
 [firefox-image]: https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white
 [firefox-url]: https://www.mozilla.org/es-ES/firefox/new/
 [chrome-image]: https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white
@@ -139,3 +138,4 @@ To run this project, you will need to add the following environment variables to
 [github-url]: https://github.com/
 [vscode-image]: https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [vscode-url]: https://code.visualstudio.com/
+
